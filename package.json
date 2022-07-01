@@ -1,0 +1,16 @@
+{
+  "name": "djshandler",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "KabirSingh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "request-promise-native": "^1.0.9"
+  }
+}
